@@ -1,4 +1,4 @@
-# A12b - Combat Extended Artillery
+# A17b - Combat Extended Artillery
 Version: 0.13 "Anti-tank"  
 A simple mod designed to add onto Combat Extended with the addition of new emplaced cannons. 
 This adds a 50mm, 75mm, and 105mm cannon to the security tab that are similar to the stock 90mm cannons with their own uses.  
